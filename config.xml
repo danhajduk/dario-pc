@@ -17,8 +17,5 @@
         Dario PC
     </author>
 
-<gap:plugin name="com.phonegap.plugins.pushplugin" version="2.1.1" />
- <gap:plugin name="nl.x-services.plugins.toast" version="2.0" />
-
     </widget>
 
