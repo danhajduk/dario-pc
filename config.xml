@@ -1,2 +1,8 @@
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+    xmlns:gap       = "http://phonegap.com/ns/1.0"
+    xmlns:android   = "http://schemas.android.com/apk/res/android"
+    id              = "com.lumberg.greeeaaat"
+    version         = "1.0.0">
+
 <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
 <gap:plugin name="org.apache.cordova.splashscreen" version="0.2.7" />
