@@ -16,6 +16,7 @@
     <author href="http://dario-pc.com" email="support@dario-pc.com">
         Dario PC
     </author>
-
+    
+    <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
     </widget>
 
